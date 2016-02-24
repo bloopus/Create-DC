@@ -1,6 +1,7 @@
 # Create-DC
+Written for the book: "Mastering Nexpose and Metasploit: A Lab-Based Approach to Mastery"  
+
 PowerShell script designed to promote fresh Windows 2k12 Server into an AD DC  
-Written for the book: "Mastering Nexpose and Metasploit: A Lab-Based Approach to Mastery"
 
 Before running the script you'll need to run the following PowerShell command:  
 *Set-ExecutionPolicy -Scope CurrentUser -f Unrestricted*  
